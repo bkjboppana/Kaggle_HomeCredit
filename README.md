@@ -5,4 +5,5 @@
  * Used exploratory data analysis to view distributions of data with Target 0 and 1
  * Created a function to pre-process the data. Steps for filling missing values, dropping columns and converting categorical variables to numeric are built in the function.
  * Modeled the data to calculate probabilities using Logistic Regression and LightGBM
- * LightGBM has 2% more AUC than Logistic regression and submitted results from Light GBM
+ * LightGBM has 2% more AUC than Logistic regression.
+ * Submitted results generated from LightGBM algorithm
